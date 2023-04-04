@@ -1,8 +1,8 @@
 ### BEM - VINDOS AO MEU PERFIL !
 ### > Um pouco sobre mim:<br/>
-▪ Estou sempre em busca de novos conheimentos 📈 <br/>
-▪ Sou paixonada pela natureza 🌲 <br/>
-▪ Amo praticar esportes 🏆🥊🏊‍♀️ <br/>
+✔ Estou sempre em busca de novos conheimentos 🚀📈 <br/>
+✔ Sou paixonada pela natureza 🌲🦋 <br/>
+✔ Amo praticar esportes 🏆🥊🏊‍♀️ <br/>
 
 ![Kauane's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kauanedev&show_icons=true&theme=radical)
 
