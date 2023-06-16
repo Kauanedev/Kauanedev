@@ -22,8 +22,6 @@
 <div><br/>
 
 
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kauanedev&hide_progress=true)](https://github.com/Kauanedev/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kauanedev&layout=donut)](https://github.com/Kauanedev/github-readme-stats)
 
 
