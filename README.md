@@ -25,4 +25,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kauanedev&layout=donut)](https://github.com/Kauanedev/github-readme-stats)
 
+### Vamos nos conectar ;)
 
+<a href="https://www.linkedin.com/in/kauane-santos-2b1b7b270/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a/>
