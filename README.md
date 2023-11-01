@@ -1,5 +1,5 @@
 ### BEM - VINDOS AO MEU PERFIL !
-### > Um pouco sobre mim:<br/>
+### > Um pouco sobre mim:
 ✔ Estou sempre em busca de novos conhecimentos 🚀📈 <br/>
 ✔ Sou apaixonada pela natureza 🌲🦋 <br/>
 ✔ Amo praticar esportes 🏆🥊🏊‍♀️ <br/>
