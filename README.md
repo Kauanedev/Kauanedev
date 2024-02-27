@@ -1,15 +1,20 @@
-### BEM - VINDOS AO MEU PERFIL !
-### > Um pouco sobre mim:
-✔ Estou sempre em busca de novos conhecimentos 🚀📈 <br/>
-✔ Sou apaixonada pela natureza 🌲🦋 <br/>
-✔ Amo praticar esportes 🏆🥊🏊‍♀️ <br/>
+### WELCOME TO MY PROFILE !
+### > A little about me:
+✔ I'm always looking for new knowledge 🚀📈 <br/>
+✔ I'm very passionate about nature 🌲🦋 <br/>
+✔ I love sports 🏆🥊🏊‍♀️
 
-![Kauane's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kauanedev&show_icons=true&theme=radical)
+<hr/>
 
+### 📊 Statistics
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Kauanedev&show_icons=true&theme=radical" alt="Murilo Schneider Estatisticas" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kauanedev&layout=compact&hide_border=true&title_color=FFFFFF&text_color=FFFFFF&bg_color=0d1117" />
+</div>
 
+<br/>
 
-
-### Tecnologias em progresso:
+### ⚙️ Technologies in progress
 <div style = "display: inline_block"><br/>
   <img src = "https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
   <img src ="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
@@ -19,12 +24,11 @@
   <img src= "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src= "https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src = "https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>  
-<div><br/>
+<div>
 
+<br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kauanedev&layout=donut)](https://github.com/Kauanedev/github-readme-stats)
-
-### Vamos nos conectar ;)
+### Let's connect ;)
 
 <a href="https://www.linkedin.com/in/kauane-santos-2b1b7b270/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
