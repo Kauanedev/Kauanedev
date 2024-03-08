@@ -28,6 +28,7 @@
   <img src = "https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white"/>  
   <img src = "https://img.shields.io/badge/Express.js-404D59?style=for-the-badge"/> 
   <img src = "https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"/>  
+  <img src = "https://img.shields.io/badge/Nodemon-76D04B.svg?style=for-the-badge&logo=Nodemon&logoColor=white"/>  
   
   <img src= "https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   <img src= "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
